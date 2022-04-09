@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>test en global</description>
+        <device_type>browser</device_type>
+        <hint>test en global</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-09 17:54:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3b5a84d2fb20110648790bcf699b684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test en global</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test en global" source="1e85e84d2fb20110648790bcf699b6c5">1e85e84d2fb20110648790bcf699b6c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test en global">1e85e84d2fb20110648790bcf699b6c5</sys_scope>
+        <sys_update_name>sys_app_application_e3b5a84d2fb20110648790bcf699b684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-09 17:54:33</sys_updated_on>
+        <title>test en global</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
